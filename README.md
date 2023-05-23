@@ -1,0 +1,2 @@
+# Get-BGR-color-code-of-any-pixel
+Are you a developer and often find it difficult to replicate same colors from a certain image into your own project?. Here is the solution, you can get the RGB value of any pixel on any image.All you have to do just replace the cv2.read('thor.jpg') line with cv2.read('image_path') and do aright click anywhere on the images you will get the color code for that pixel!!
